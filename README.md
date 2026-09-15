@@ -177,7 +177,9 @@ P system where cents are tokens, checks are annihilations `L, R --> #`, all
 membranes of a kind (statement / account / entity) fire the same schema in the
 same step, and reconciled membranes dissolve so the skin's halting multiset is
 the exception report. Relevance-realization reading: the sediment is what the
-system could not make irrelevant. Spec and generator: `ReZorg/plingua`
+system could not make irrelevant. The whole-corpus model reconciles 17
+entities, 69 accounts and 3,433 statements in seven synchronous steps. Spec and
+generator: `ReZorg/plingua`
 `docs/FINOPS_MEMBRANE_SPEC.md`, `fincosys/accospace`
 `scripts/export_membrane_psystem.py`.
 
